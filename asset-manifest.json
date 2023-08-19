@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wawa-personal-site/static/css/main.9c1dbf19.css",
+    "main.js": "/wawa-personal-site/static/js/main.9daad720.js",
+    "index.html": "/wawa-personal-site/index.html",
+    "main.9c1dbf19.css.map": "/wawa-personal-site/static/css/main.9c1dbf19.css.map",
+    "main.9daad720.js.map": "/wawa-personal-site/static/js/main.9daad720.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c1dbf19.css",
+    "static/js/main.9daad720.js"
+  ]
+}
