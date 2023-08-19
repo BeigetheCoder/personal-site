@@ -2,13 +2,13 @@
 
 .app {
   font-family: Arial, sans-serif;
-  background-color: #ffecf2; /* Light pink background */
+  background-color: #b9b0a0; /* Light pink background */
   margin: 0;
   padding: 0;
 }
 
 .header {
-  background-color: #ff6b81; /* Pink header background */
+  background-color: #b9b0a0; /* Pink header background */
   padding: 20px;
   text-align: center;
 }
@@ -25,7 +25,7 @@ h1 {
 
 .btn {
   display: inline-block;
-  background-color: #ff6b81; /* Pink button background */
+  background-color: #b9b0a0; /* Pink button background */
   color: #ffffff; /* White text color */
   padding: 10px 20px;
   text-decoration: none;
@@ -34,7 +34,7 @@ h1 {
 }
 
 .btn:hover {
-  background-color: #ff4757; /* Darker pink on hover */
+  background-color: #b9b0a0; /* Darker pink on hover */
 }
 
 .about {
@@ -44,11 +44,11 @@ h1 {
 
 .about h2 {
   font-size: 24px;
-  color: #ff6b81; /* Pink header for About section */
+  color: #b9b0a0; /* Pink header for About section */
 }
 
 .footer {
-  background-color: #ff6b81; /* Pink footer background */
+  background-color: #b9b0a0; /* Pink footer background */
   color: #ffffff; /* White text color */
   text-align: center;
   padding: 10px 0;
@@ -62,7 +62,7 @@ footer p {
 
 .big-button {
   display: inline-block;
-  background-color: #ff6b81; /* Pink button background */
+  background-color: #b9b0a0; /* Pink button background */
   color: #ffffff; /* White text color */
   padding: 20px 40px; /* Increase padding to make the button larger */
   text-decoration: none;

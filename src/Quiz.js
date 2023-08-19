@@ -9,14 +9,14 @@ const questions = [
     answer: 'Stan'
   },
   {
-    question: 'What is the name of the elementary school in South Park?',
-    options: ['South Park Elementary', 'Springfield Elementary', 'Waldorf Elementary', 'Central Elementary'],
-    answer: 'South Park Elementary'
+    question: 'What episode did Kyle Broflovski get his mouth scar?',
+    options: ['Season 12 Episode 7', 'Season 2 Episode 10', 'Season 15 Episode 1', 'Season 17 Episode 4'],
+    answer: 'Season 15 Episode 1'
   },
   {
-    question: 'What is the catchphrase of Eric Cartman?',
-    options: ['Oh my God!', 'Mmmkay', 'Respect my authoritah!', "I'm super cereal!"],
-    answer: 'Respect my authoritah!'
+    question: 'Who is Cartmans stepbrother?',
+    options: ['Kenny McCormick', 'Scott Tenorman', 'He has no stepbrother', "Scott Malkinson"],
+    answer: 'Scott Tenorman'
   }
 ];
 
@@ -35,7 +35,7 @@ function Quiz() {
   };
 
   return (
-    <div className="App">
+    <div className="Quiz">
       {currentQuestion < questions.length ? (
         <div>
           <h2>{questions[currentQuestion].question}</h2>
