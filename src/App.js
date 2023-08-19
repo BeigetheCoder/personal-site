@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./App.css";
-import PersonalityTest from "./PersonalityTest";
+import Quiz from "./Quiz";
 
 function App() {
   const [play, setPlay] = useState(false);
@@ -21,7 +21,7 @@ function App() {
         >
           Let's Go on an Adventure
         </button>
-        {play && <PersonalityTest />}
+        {play && <Quiz />}
       </header>
       <section className="about">
         <h2>About Tiffany</h2>
